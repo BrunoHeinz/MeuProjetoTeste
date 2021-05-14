@@ -1,2 +1,3 @@
 # MeuProjetoTeste
-Uma nova linha
+Uma nova linha.
+Mais uma linha.
